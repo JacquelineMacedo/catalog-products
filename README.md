@@ -3,7 +3,6 @@
 
 API de catálogo de produtos com Java e Spring Boot.
 
-## product-ms
 
 Neste serviço é possível criar, alterar, visualizar e excluir um determinado produto, visualizar a lista de produtos atuais disponíveis. Também é realizada a busca de produtos filtrando por *name, description e price*.
 
